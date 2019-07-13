@@ -1,0 +1,13 @@
+$red: #ffffff;
+#main {
+    width: 600px;
+    p {
+      margin: 0 0 1em;
+      em {
+        color: red;
+      }
+    }
+    small {
+      font-size: 300em + 5em;
+    }
+  }
